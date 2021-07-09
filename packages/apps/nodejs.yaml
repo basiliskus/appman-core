@@ -6,4 +6,5 @@ labels:
   - cli
   - dev-tools
 formulas:
+  scoop: nodejs
   nvm: node

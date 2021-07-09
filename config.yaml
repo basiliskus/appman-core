@@ -1,6 +1,6 @@
 package-managers:
   app:
-    windows: [ scoop, choco, npm, pip, cargo, go, conda, nvm ]
+    windows: [ scoop, choco, npm, pip, cargo, go, conda ]
     ubuntu: [ apt, npm, pip, cargo, go, conda, nvm, snap ]
     darwin: [ brew, npm, pip, cargo, go, conda, nvm ]
   font:
