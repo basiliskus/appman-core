@@ -1,2 +1,2 @@
-# appman-main
-Main bucket for appman
+# appman-core
+Core bucket for appman
