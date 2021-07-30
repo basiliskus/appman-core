@@ -1,2 +1,3 @@
 # appman-core
-Core bucket for appman
+
+Core repository for appman

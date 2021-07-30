@@ -7,9 +7,10 @@ labels:
   - dev-tools
   - prog-langs
 formulas:
-  scoop: go
   choco: golang
-  winget: GoLang.Go
+  pacman: go
+  scoop: go
   tar-cp-package:
     source: https://golang.org/dl/go1.16.5.linux-amd64.tar.gz
     destination: /usr/local
+  winget: GoLang.Go
