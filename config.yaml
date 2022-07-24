@@ -8,7 +8,7 @@ package-managers:
   font:
     arch: [ pacman ]
     darwin: [ brew ]
-    darwin: [ dnf ]
+    fedora: [ dnf ]
     ubuntu: [ font-local-share ]
     windows: [ scoop ]
   driver:
