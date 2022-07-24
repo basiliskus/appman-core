@@ -8,6 +8,7 @@ labels:
   - prog-langs
 formulas:
   choco: golang
+  dnf: golang
   pacman: go
   scoop: go
   tar-cp-package:

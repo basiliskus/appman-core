@@ -6,5 +6,6 @@ labels:
   - utils
 formulas:
   apt: curl
+  dnf: curl
   brew: curl
   pacman: curl

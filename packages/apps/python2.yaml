@@ -6,5 +6,6 @@ labels:
   - prog-langs
 formulas:
   choco: python2
+  dnf: python2
   pacman: python2
   winget: Python.Python.2

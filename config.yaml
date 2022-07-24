@@ -1,12 +1,14 @@
 package-managers:
   app:
-    arch: [ pacman, npm, pip, cargo, go, conda, nvm, snap ]
+    arch: [ pacman, npm, pip, cargo, go, conda, nvm ]
     darwin: [ brew, mas, npm, pip, cargo, go, conda, nvm ]
-    ubuntu: [ apt, npm, pip, cargo, go, conda, nvm, snap ]
+    fedora: [ dnf, npm, pip, cargo, go, nvm ]
+    ubuntu: [ apt, npm, pip, cargo, go, conda, nvm ]
     windows: [ winget, scoop, npm, pip, cargo, go, conda, choco ]
   font:
     arch: [ pacman ]
     darwin: [ brew ]
+    darwin: [ dnf ]
     ubuntu: [ font-local-share ]
     windows: [ scoop ]
   driver:
